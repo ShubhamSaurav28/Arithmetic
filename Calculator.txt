@@ -1,5 +1,0 @@
-Class Calculator{
-	public main{
-	
-	}
-}
