@@ -1,4 +1,7 @@
 Class Calculator{
+	public mul(int a,int b){
+		return a*b;
+	}
 	public main{
 	
 	}
